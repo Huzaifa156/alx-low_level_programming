@@ -1,4 +1,4 @@
-i0x09. C - Static libraries
+0x09. C - Static libraries
 C
  By: Julien Barbier
  Weight: 1
@@ -227,3 +227,4 @@ Repo:
 GitHub repository: alx-low_level_programming
 Directory: 0x09-static_libraries
 File: create_static_lib.sh
+   
