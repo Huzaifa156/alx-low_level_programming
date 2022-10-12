@@ -14,7 +14,7 @@ Write a function that prints a name.
 
 * Prototype: `void print_name(char *name, void (*f)(char *));`
 
-**Solution:** [0-print_name.c](https://github.com/monoprosito/holbertonschool-low_level_programming/blob/master/0x0F-function_pointers/0-print_name.c)
+**Solution:** [0-print_name.c](https://github.com/Huzaifa156/alx-low_level_programming/blob/master/0x0F-function_pointers/0-print_name.c)
 
 ```
 $ amonkeyprogrammer@ubuntu:~/0x0e. Function pointers$ cat 0-main.c
@@ -85,7 +85,7 @@ Write a function that executes a function given as a parameter on each element o
 * where `size` is the size of the array
 * and `action` is a pointer to the function you need to use
 
-**Solution:** [1-array_iterator.c](https://github.com/monoprosito/holbertonschool-low_level_programming/blob/master/0x0F-function_pointers/1-array_iterator.c)
+**Solution:** [1-array_iterator.c](https://github.com/Huzaifa156/alx-low_level_programming/blob/master/0x0F-function_pointers/1-array_iterator.c)
 
 ```
 $ amonkeyprogrammer@ubuntu:~/0x0e. Function pointers$ cat 1-main.c
@@ -153,7 +153,7 @@ Write a function that searches for an integer.
 * If no element matches, return `-1`
 * If size <= `0`, return `-1`
 
-**Solution:** [2-int_index.c](https://github.com/monoprosito/holbertonschool-low_level_programming/blob/master/0x0F-function_pointers/2-int_index.c)
+**Solution:** [2-int_index.c](https://github.com/Huzaifa156/alx-low_level_programming/blob/master/0x0F-function_pointers/2-int_index.c)
 
 ```
 $ amonkeyprogrammer@ubuntu:~/0x0e. Function pointers$ cat 2-main.c
@@ -239,7 +239,7 @@ Write a program that performs simple operations.
 * if the operator is none of the above, print `Error`, followed by a new line, and exit with the status `99`
 * if the user tries to divide (`/` or `%`) by 0, print `Error`, followed by a new line, and exit with the status `100`
 
-**Solution:** [3-main.c](https://github.com/monoprosito/holbertonschool-low_level_programming/blob/master/0x0F-function_pointers/3-main.c), [3-op_functions.c](https://github.com/monoprosito/holbertonschool-low_level_programming/blob/master/0x0F-function_pointers/3-op_functions.c), [3-get_op_func.c](https://github.com/monoprosito/holbertonschool-low_level_programming/blob/master/0x0F-function_pointers/3-get_op_func.c), [3-calc.h](https://github.com/monoprosito/holbertonschool-low_level_programming/blob/master/0x0F-function_pointers/3-calc.h)
+**Solution:** [3-main.c](https://github.com/huzaifa156/alx-low_level_programming/blob/master/0x0F-function_pointers/3-main.c), [3-op_functions.c](https://github.com/huzaifa156/alx-low_level_programming/blob/master/0x0F-function_pointers/3-op_functions.c), [3-get_op_func.c](https://github.com/huzaifa156/alx-low_level_programming/blob/master/0x0F-function_pointers/3-get_op_func.c), [3-calc.h](https://github.com/huzaifa156/alx-low_level_programming/blob/master/0x0F-function_pointers/3-calc.h)
 
 ### Compilation and examples
 
